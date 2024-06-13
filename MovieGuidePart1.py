@@ -1,7 +1,7 @@
 
 def display_menu():
     print("The Movie List Program")
-    print()
+    print("/n)
     print("COMMAND MENU")
     print("list - List all movies")
     print("add - Add a movie")
@@ -51,4 +51,4 @@ def main():
     print("Goodbye!")
 
 if __name__ == "__main__":
-    main()
+    main("/n)
